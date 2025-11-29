@@ -1,7 +1,8 @@
 # ---------------------------------------------------------
 # Name: Shahnaj Latif
-# QCC ID: (add your QCC ID here)
+# QCC ID: 23848861)
 # ET574 - Homework 5 - Math Library
+
 # ---------------------------------------------------------
 
 def fibonacci(n):
