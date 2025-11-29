@@ -3,6 +3,8 @@
 # QCC ID: 23848861)
 # ET574 - Homework 5 - Math Library
 #run_added_files: my_math.py
+#added_factorial_function
+
 # ---------------------------------------------------------
 
 def fibonacci(n):
